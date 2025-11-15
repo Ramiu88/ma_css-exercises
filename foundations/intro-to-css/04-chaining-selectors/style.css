@@ -1,1 +1,5 @@
-/* Add CSS Styling */
+.avatar.proportionned {
+
+    width: 300px;
+    height: auto;
+}
